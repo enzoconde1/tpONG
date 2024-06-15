@@ -102,6 +102,14 @@ body{
     padding: 3rem;
     border-radius: 6rem;
 }
+.integrantes .img-top .carraro img{
+    height: 20rem;
+    width: 16rem;
+}
+.integrantes .img-bottom .hokama img{
+    width: 15rem;
+    height: 20rem;
+}
 
 /*Estilo de "proyecto*/
 .proyecto{
