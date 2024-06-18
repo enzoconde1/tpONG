@@ -236,6 +236,7 @@ body{
 .sitio .video{
     margin: 1rem;
     border-radius: 2rem;
+    max-width: 500rem;
 }
 
 
@@ -342,6 +343,13 @@ footer{
     }
     .avances_sitio .arbol{
         max-width: 20rem;
+    }
+
+    .sitio{
+        margin: 2rem;
+    }
+    .sitio .video{
+       width: 20rem;
     }
 
     footer{
